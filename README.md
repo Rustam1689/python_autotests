@@ -61,6 +61,3 @@ pytest tests/test_pokemon.py
 5. Ожидаемый результат: получим отчет о прохождении тестов.
 
 
-## Автор
-
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
